@@ -16,7 +16,7 @@
 <body>
   	
   	<div class="home">
-    		<img class="captura-de-tela-2024-10-24-195" alt="" src="Captura de tela 2024-10-24 195304.png">
+    		<img class="captura-de-tela-2024-10-24-195" alt="banner" src="https://github.com/Camilasimoes1/pizzaria/blob/main/698e2ed24e6bc3660fb1cd497b0fae3b48590f9c.png?raw=true">
     		
     		<div class="home-child">
     		</div>
@@ -28,13 +28,13 @@
     		</div>
     		<div class="home-child1">
     		</div>
-    		<img class="focaccia-with-ai-generated-fre-icon" alt="" src="focaccia-with-ai-generated-free-png 1.png">
+    		<img class="focaccia-with-ai-generated-fre-icon" alt="" src="https://github.com/Camilasimoes1/pizzaria/blob/main/d5f2fbbccda82ef7e479076bdc4e9cd8856ab627.png?raw=true">
     		
-    		<img class="oip-removebg-preview-1-icon" alt="" src="OIP-removebg-preview 1.png">
+    		<img class="oip-removebg-preview-1-icon" alt="" src="https://github.com/Camilasimoes1/pizzaria/blob/main/de2bbde7fe6acd185a1c4a4b4170dbb04795a6de.png?raw=true">
     		
-    		<img class="pizza-trans-1-icon" alt="" src="1606728166-pizza-trans 1.png">
+    		<img class="pizza-trans-1-icon" alt="" src="https://github.com/Camilasimoes1/pizzaria/blob/main/7edebdb3710522074079a4281ea811b1928192d2.png?raw=true">
     		
-    		<img class="depositphotos-4026361-l-2015-4-icon" alt="" src="Depositphotos_4026361_l-2015-412w 1.png">
+    		<img class="depositphotos-4026361-l-2015-4-icon" alt="" src="https://github.com/Camilasimoes1/pizzaria/blob/main/83a77370d6c7cd644f63e53ae65122c9a4249659.png?raw=true">
     		
     		<div class="pizzas">Pizzas</div>
     		<div class="focaccia">Focaccia</div>
@@ -59,9 +59,9 @@
     		</div>
     		<div class="home-child10">
     		</div>
-    		<img class="r-1-icon" alt="" src="R 1.png">
+    		<img class="r-1-icon" alt="pessoa" src="https://github.com/Camilasimoes1/pizzaria/blob/main/R%201.png?raw=true">
     		
-    		<img class="googlemapta-1-icon" alt="" src="GoogleMapTA 1.png">
+    		<img class="googlemapta-1-icon" alt="" src="https://github.com/Camilasimoes1/pizzaria/blob/main/e1d4243ce04ae0848573e5aec930a59844b09c9d.png?raw=true">
     		
     		<div class="a-sua-pizza">A sua pizza favorita, a um clique de distância!</div>
     		<div class="home-child11">
@@ -69,29 +69,20 @@
     		<div class="comprar">Comprar</div>
     		<div class="home-child12">
     		</div>
-    		<img class="logo-pix-png-930x616-1-icon" alt="" src="logo-pix-png-930x616 1.png">
     		
-    		<img class="purepngcom-visa-logologobrand-icon" alt="" src="purepng.com-visa-logologobrand-logoiconslogos-251519938794uqvcz 1.png">
     		
-    		<img class="r-4-1" alt="" src="R (4) 1.png">
-    		
-    		<img class="facebook-logo-0-1-icon" alt="" src="facebook-logo-0 1.png">
+    		<img class="facebook-logo-0-1-icon" alt="" src="https://github.com/Camilasimoes1/pizzaria/blob/main/19a6b7d6e1f3d0f5ad1026586062c8509aecb88b.png?raw=true">
     		
     		<div class="home-child13">
     		</div>
-    		<img class="r-1-icon1" alt="" src="R 1.png">
+    		<img class="r-1-icon1" alt="" src="https://github.com/Camilasimoes1/pizzaria/blob/main/4bbfe171d20686c410f5d51d0b3190ef7a057384.png?raw=true">
     		
-    		<img class="whatsapp-logo-1-1-icon" alt="" src="whatsapp-logo-1 1.png">
+    		<img class="whatsapp-logo-1-1-icon" alt="" src="https://github.com/Camilasimoes1/pizzaria/blob/main/5d02656df08e7462ec5b1b0ef323e7d08169ff33.png?raw=true">
     		
     		<div class="component-2">
       			<div class="captura-de-tela-2024-10-24-215-parent">
-        				<img class="captura-de-tela-2024-10-24-215" alt="" src="Captura de tela 2024-10-24 215654.png">
-        				
-        				<img class="captura-de-tela-2024-10-24-2151" alt="" src="Captura de tela 2024-10-24 215709.png">
-        				
-        				<img class="captura-de-tela-2024-10-24-2152" alt="" src="Captura de tela 2024-10-24 215727.png">
-        				
-        				<img class="captura-de-tela-2024-10-24-2153" alt="" src="Captura de tela 2024-10-24 215741.png">
+        				<img class="captura-de-tela-2024-10-24-215" alt="" src="https://github.com/Camilasimoes1/pizzaria/blob/main/c122d476b565c24b9bc46272a6ddd6dd89a235b8.png?raw=true">
+        			
         				
       			</div>
     		</div>
@@ -172,10 +163,10 @@
 }
 .pizza-trans-1-icon {
   	position: absolute;
-  	top: 943px;
-  	left: 537px;
-  	width: 365px;
-  	height: 430px;
+  	top: 980px;
+  	left: 527px;
+  	width: 395px;
+  	height: 380px;
   	object-fit: cover;
 }
 .depositphotos-4026361-l-2015-4-icon {
@@ -340,14 +331,8 @@
   	color: #000;
   	text-align: center;
 }
-.home-child12 {
-  	position: absolute;
-  	top: 3571px;
-  	left: 0px;
-  	background-color: #fff;
-  	width: 117px;
-  	height: 248px;
-}
+
+
 .logo-pix-png-930x616-1-icon {
   	position: absolute;
   	top: 3590px;
