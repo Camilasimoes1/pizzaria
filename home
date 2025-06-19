@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html>
+<head>
+  	<meta charset="utf-8">
+  	<meta name="viewport" content="initial-scale=1, width=device-width">
+  	
+  	<link rel="stylesheet"  href="./index.css" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ingrid Darling:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Instrument Sans:wght@600&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Gravitas One:wght@400&display=swap" />
+  	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Goblin One:wght@400&display=swap" />
+  	
+  	
+  	
+</head>
+<body>
+  	
+  	<div class="home">
+    		<img class="captura-de-tela-2024-10-24-195" alt="" src="Captura de tela 2024-10-24 195304.png">
+    		
+    		<div class="home-child">
+    		</div>
+    		<div class="home-item">
+    		</div>
+    		<div class="home-inner">
+    		</div>
+    		<div class="rectangle-div">
+    		</div>
+    		<div class="home-child1">
+    		</div>
+    		<img class="focaccia-with-ai-generated-fre-icon" alt="" src="focaccia-with-ai-generated-free-png 1.png">
+    		
+    		<img class="oip-removebg-preview-1-icon" alt="" src="OIP-removebg-preview 1.png">
+    		
+    		<img class="pizza-trans-1-icon" alt="" src="1606728166-pizza-trans 1.png">
+    		
+    		<img class="depositphotos-4026361-l-2015-4-icon" alt="" src="Depositphotos_4026361_l-2015-412w 1.png">
+    		
+    		<div class="pizzas">Pizzas</div>
+    		<div class="focaccia">Focaccia</div>
+    		<div class="delivery">Delivery</div>
+    		<div class="focaccia1">Focaccia</div>
+    		<div class="pizzas1">Pizzas</div>
+    		<div class="home-child2">
+    		</div>
+    		<div class="home-child3">
+    		</div>
+    		<div class="home-child4">
+    		</div>
+    		<div class="home-child5">
+    		</div>
+    		<div class="home-child6">
+    		</div>
+    		<div class="home-child7">
+    		</div>
+    		<div class="home-child8">
+    		</div>
+    		<div class="home-child9">
+    		</div>
+    		<div class="home-child10">
+    		</div>
+    		<img class="r-1-icon" alt="" src="R 1.png">
+    		
+    		<img class="googlemapta-1-icon" alt="" src="GoogleMapTA 1.png">
+    		
+    		<div class="a-sua-pizza">A sua pizza favorita, a um clique de distância!</div>
+    		<div class="home-child11">
+    		</div>
+    		<div class="comprar">Comprar</div>
+    		<div class="home-child12">
+    		</div>
+    		<img class="logo-pix-png-930x616-1-icon" alt="" src="logo-pix-png-930x616 1.png">
+    		
+    		<img class="purepngcom-visa-logologobrand-icon" alt="" src="purepng.com-visa-logologobrand-logoiconslogos-251519938794uqvcz 1.png">
+    		
+    		<img class="r-4-1" alt="" src="R (4) 1.png">
+    		
+    		<img class="facebook-logo-0-1-icon" alt="" src="facebook-logo-0 1.png">
+    		
+    		<div class="home-child13">
+    		</div>
+    		<img class="r-1-icon1" alt="" src="R 1.png">
+    		
+    		<img class="whatsapp-logo-1-1-icon" alt="" src="whatsapp-logo-1 1.png">
+    		
+    		<div class="component-2">
+      			<div class="captura-de-tela-2024-10-24-215-parent">
+        				<img class="captura-de-tela-2024-10-24-215" alt="" src="Captura de tela 2024-10-24 215654.png">
+        				
+        				<img class="captura-de-tela-2024-10-24-2151" alt="" src="Captura de tela 2024-10-24 215709.png">
+        				
+        				<img class="captura-de-tela-2024-10-24-2152" alt="" src="Captura de tela 2024-10-24 215727.png">
+        				
+        				<img class="captura-de-tela-2024-10-24-2153" alt="" src="Captura de tela 2024-10-24 215741.png">
+        				
+      			</div>
+    		</div>
+  	</div>
+  	
+  	<style>
+		.captura-de-tela-2024-10-24-195 {
+  	position: absolute;
+  	top: 94px;
+  	left: 0px;
+  	width: 1440px;
+  	height: 670px;
+  	object-fit: cover;
+}
+.home-child {
+  	position: absolute;
+  	top: 960px;
+  	left: 515px;
+  	background-color: #202020;
+  	border: 5px solid #fff;
+  	box-sizing: border-box;
+  	width: 410px;
+  	height: 600px;
+}
+.home-item {
+  	position: absolute;
+  	top: 960px;
+  	left: 972px;
+  	background-color: #202020;
+  	border: 5px solid #fff;
+  	box-sizing: border-box;
+  	width: 410px;
+  	height: 600px;
+}
+.home-inner {
+  	position: absolute;
+  	top: 960px;
+  	left: 58px;
+  	background-color: #202020;
+  	border: 5px solid #fff;
+  	box-sizing: border-box;
+  	width: 410px;
+  	height: 600px;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 1774px;
+  	left: 193px;
+  	background-color: #202020;
+  	border: 5px solid #fff;
+  	box-sizing: border-box;
+  	width: 1054px;
+  	height: 428px;
+}
+.home-child1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	background-color: #9f1919;
+  	width: 1440px;
+  	height: 94px;
+}
+.focaccia-with-ai-generated-fre-icon {
+  	position: absolute;
+  	top: 1834px;
+  	left: 216px;
+  	width: 566px;
+  	height: 328px;
+  	object-fit: cover;
+}
+.oip-removebg-preview-1-icon {
+  	position: absolute;
+  	top: 960px;
+  	left: 70px;
+  	width: 387px;
+  	height: 395px;
+  	object-fit: cover;
+}
+.pizza-trans-1-icon {
+  	position: absolute;
+  	top: 943px;
+  	left: 537px;
+  	width: 365px;
+  	height: 430px;
+  	object-fit: cover;
+}
+.depositphotos-4026361-l-2015-4-icon {
+  	position: absolute;
+  	top: 970px;
+  	left: 981px;
+  	width: 392px;
+  	height: 385px;
+  	object-fit: cover;
+}
+.pizzas {
+  	position: absolute;
+  	top: 822px;
+  	left: 621px;
+  	font-size: 96px;
+  	font-family: 'Ingrid Darling';
+  	display: inline-block;
+  	width: 201px;
+  	height: 89px;
+}
+.focaccia {
+  	position: absolute;
+  	top: 1636px;
+  	left: 620px;
+  	font-size: 96px;
+  	font-family: 'Ingrid Darling';
+  	display: inline-block;
+  	width: 199px;
+  	height: 93px;
+}
+.delivery {
+  	position: absolute;
+  	top: 28px;
+  	left: 801px;
+  	font-weight: 600;
+}
+.focaccia1 {
+  	position: absolute;
+  	top: 28px;
+  	left: 650px;
+  	font-weight: 600;
+}
+.pizzas1 {
+  	position: absolute;
+  	top: 28px;
+  	left: 528px;
+  	font-weight: 600;
+}
+.home-child2 {
+  	position: absolute;
+  	top: 1441px;
+  	left: 116px;
+  	background-color: rgba(217, 217, 217, 0.75);
+  	width: 194px;
+  	height: 38px;
+}
+.home-child3 {
+  	position: absolute;
+  	top: 1373px;
+  	left: 116px;
+  	background-color: rgba(217, 217, 217, 0.75);
+  	width: 294px;
+  	height: 44px;
+}
+.home-child4 {
+  	position: absolute;
+  	top: 1441px;
+  	left: 575px;
+  	background-color: rgba(217, 217, 217, 0.75);
+  	width: 194px;
+  	height: 38px;
+}
+.home-child5 {
+  	position: absolute;
+  	top: 1373px;
+  	left: 575px;
+  	background-color: rgba(217, 217, 217, 0.75);
+  	width: 294px;
+  	height: 44px;
+}
+.home-child6 {
+  	position: absolute;
+  	top: 1441px;
+  	left: 1030px;
+  	background-color: rgba(217, 217, 217, 0.75);
+  	width: 194px;
+  	height: 38px;
+}
+.home-child7 {
+  	position: absolute;
+  	top: 1373px;
+  	left: 1030px;
+  	background-color: rgba(217, 217, 217, 0.75);
+  	width: 294px;
+  	height: 44px;
+}
+.home-child8 {
+  	position: absolute;
+  	top: 2003px;
+  	left: 848px;
+  	background-color: rgba(217, 217, 217, 0.75);
+  	width: 240px;
+  	height: 38px;
+}
+.home-child9 {
+  	position: absolute;
+  	top: 1935px;
+  	left: 848px;
+  	background-color: rgba(217, 217, 217, 0.75);
+  	width: 364px;
+  	height: 44px;
+}
+.home-child10 {
+  	position: absolute;
+  	top: 3138px;
+  	left: 0px;
+  	background-color: #d9d9d9;
+  	width: 1440px;
+  	height: 682px;
+}
+.r-1-icon {
+  	position: absolute;
+  	top: 3138px;
+  	left: 0px;
+  	width: 790px;
+  	height: 682px;
+  	object-fit: cover;
+}
+.googlemapta-1-icon {
+  	position: absolute;
+  	top: 3138px;
+  	left: 790px;
+  	width: 650px;
+  	height: 682px;
+  	object-fit: cover;
+}
+.a-sua-pizza {
+  	position: absolute;
+  	top: 3441px;
+  	left: 70px;
+  	font-size: 40px;
+  	font-family: 'Gravitas One';
+  	text-align: center;
+  	display: inline-block;
+  	width: 651px;
+  	height: 153px;
+}
+.home-child11 {
+  	position: absolute;
+  	top: 3666px;
+  	left: 197px;
+  	border-radius: 20px;
+  	background-color: #fff;
+  	width: 396px;
+  	height: 98px;
+}
+.comprar {
+  	position: absolute;
+  	top: 3695px;
+  	left: 289px;
+  	font-family: 'Goblin One';
+  	color: #000;
+  	text-align: center;
+}
+.home-child12 {
+  	position: absolute;
+  	top: 3571px;
+  	left: 0px;
+  	background-color: #fff;
+  	width: 117px;
+  	height: 248px;
+}
+.logo-pix-png-930x616-1-icon {
+  	position: absolute;
+  	top: 3590px;
+  	left: 9px;
+  	width: 92px;
+  	height: 54px;
+  	object-fit: cover;
+}
+.purepngcom-visa-logologobrand-icon {
+  	position: absolute;
+  	top: 3649px;
+  	left: 12px;
+  	width: 87px;
+  	height: 72px;
+  	object-fit: cover;
+}
+.r-4-1 {
+  	position: absolute;
+  	top: 3726px;
+  	left: 22px;
+  	width: 72px;
+  	height: 59px;
+  	object-fit: cover;
+}
+.facebook-logo-0-1-icon {
+  	position: absolute;
+  	top: 575px;
+  	left: 1344px;
+  	width: 76px;
+  	height: 71px;
+  	object-fit: cover;
+}
+.home-child13 {
+  	position: absolute;
+  	top: 501px;
+  	left: 1348px;
+  	border-radius: 20px;
+  	background-color: #fff;
+  	width: 67px;
+  	height: 62px;
+}
+.r-1-icon1 {
+  	position: absolute;
+  	top: 505px;
+  	left: 1348px;
+  	width: 67px;
+  	height: 58px;
+  	object-fit: cover;
+}
+.whatsapp-logo-1-1-icon {
+  	position: absolute;
+  	top: 419px;
+  	left: 1350px;
+  	width: 64px;
+  	height: 64px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-10-24-215 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 1171px;
+  	height: 576px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-10-24-2151 {
+  	position: absolute;
+  	top: 0px;
+  	left: 1253px;
+  	width: 1171px;
+  	height: 576px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-10-24-2152 {
+  	position: absolute;
+  	top: 0px;
+  	left: 2506px;
+  	width: 1171px;
+  	height: 576px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-10-24-2153 {
+  	position: absolute;
+  	top: 0px;
+  	left: 3759px;
+  	width: 1171px;
+  	height: 576px;
+  	object-fit: cover;
+}
+.captura-de-tela-2024-10-24-215-parent {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 4930px;
+  	height: 576px;
+}
+.component-2 {
+  	position: absolute;
+  	top: 2362px;
+  	left: 135px;
+  	background-color: #fff;
+  	width: 1171px;
+  	height: 576px;
+  	overflow: hidden;
+}
+.home {
+  	width: 100%;
+  	position: relative;
+  	background-color: #202020;
+  	height: 3820px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 32px;
+  	color: #fff;
+  	font-family: 'Instrument Sans';
+}
+
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
+
+	</style>
+  	
+  	
+</body>
+</html>
